@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manuel Ardid</h1>
+<h1 align="center">Manuel Ardid</h1>
 <h3 align="center">A wannabe gamedev interested in bringing modern gaming designs and perspectives to old, forgotten genres and systems.</h3>
 
 <h2> Current Projects: </h2>
