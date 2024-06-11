@@ -3,7 +3,7 @@
 
 <h2> Current Projects: </h2>
 
-- 🕹 **Jia Xian's cleaning Odissey** , a Narrative Maze Chase game for NES
+- 🕹 **Jia Xian's cleaning Odissey**, a Narrative Maze Chase game for NES
 
 - 📖 **Project Magic Noir**, a interactive fiction game made with TextVentura
 
