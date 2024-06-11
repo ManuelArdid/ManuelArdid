@@ -5,11 +5,12 @@
 
 - 🕹 **Jia Xian's cleaning Odissey**, a Narrative Maze Chase game for NES
 
+- 🕵️‍♀️ **TextVentura**, an open source engine for terminal-based interactive fiction games (https://github.com/ManuelArdid/TextVentura)
+
 - 📖 **Project Magic Noir**, a interactive fiction game made with TextVentura
 
 - 🎮 **Kitchen's Ratmare**, an inmersive and punishing cooking game
 
-- 🕵️‍♀️ **TextVentura**, an open source engine for terminal-based interactive fiction games (https://github.com/ManuelArdid/TextVentura)
 
 <h2> Currently Learning: </h2>
 
